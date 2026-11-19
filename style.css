@@ -220,3 +220,19 @@ border: 1px solid red;
 	height: 50px;
 	border: 1px solid green;
 }
+
+.h {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 600px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+.h1 {
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}

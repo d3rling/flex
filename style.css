@@ -10,3 +10,16 @@
 	height: 20px;
 	border: 1px solid green;
 }
+
+.par {
+	display: flex;
+	flex-direction: row-reverse;
+	width: 500px;
+	height: 400px;
+	border: 1px solid red;
+}
+.ch {
+	width: 50px;
+	height: 20px;
+	border: 1px solid green;
+}

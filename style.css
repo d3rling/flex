@@ -253,3 +253,18 @@ border: 1px solid red;
 	border: 1px solid green;
 }
 
+.j {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+.j1 {
+    width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}

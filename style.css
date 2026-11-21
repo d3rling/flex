@@ -347,3 +347,34 @@ border: 1px solid red;
 	height: 50px;
 	border: 1px solid green;
 }
+
+.p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    width: 600px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+.p1 {
+    width: 50px;
+	border: 1px solid green;
+}
+
+.p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: ;
+    width: 600px;
+    height: 300px;
+    border: 1px solid red;
+}
+
+.p1 {
+    height: 50px;
+	border: 1px solid green;
+}
+
